@@ -1,5 +1,3 @@
-🔒 Privacy PolicyEffective date: [Date]Data Collection: [Your App Name] does not collect, store, or share any personal data or location information from its users. All processing happens locally on your device.Third-Party Services: We do not use third-party analytics or tracking tools.Changes to This Policy: Any updates to this privacy policy will be posted directly in this file.
-
 # Budle Support & Legal
 
 Welcome to the official support page for Budel, an application designed to help you solve Wordle or the similar games Quordle or Octordle, etc. This app will help you solve the Wordle(s) you while you are playing in a separate application but it is more than that. The use of this app you will improve your ability to play the game to where hopefully you will no longer need this app (see the instructions in the help page in the app).
@@ -41,7 +39,7 @@ Your privacy is critically important to us. **Budle** is designed with a privacy
 By downloading or using **Budle**, these terms automatically apply to you. Please read them carefully before using the app.
 
 ### 1. License Grant
-We grant you a personal, non-transferable, non-exclusive license to use the app on compatible Apple devices that you own or control, strictly in accordance with these terms.
+We grant you a personal, non-transferable, non-exclusive license to use the app on compatible devices that you own or control, strictly in accordance with these terms.
 
 ### 2. Intellectual Property & Copyright
 * **Ownership:** All copyrights, trademarks, design rights, source code, graphics, and other intellectual property rights in and to the app belong exclusively to **Thomas Marston Morse**. 
