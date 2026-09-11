@@ -1,6 +1,6 @@
 # Budle Support & Legal
 
-Welcome to the official support page for Budel, an application designed to help you solve Wordle or the similar games Quordle or Octordle, etc. This app will help you solve the Wordle(s) you play in a separate application (no wordle-like game is provided here) but it is more than that. The use of this app you will improve your ability to play the game to where hopefully you will no longer need this app (see the instructions in the help page in the app).
+Welcome to the official support page for **Budle**, an application designed to help you solve Wordle or the similar games Quordle or Octordle, etc. This app will help you solve the Wordle(s) you play in a separate application (no wordle-like game is provided here) but it is more than that. The use of this app will improve your ability to play the game to where hopefully you will no longer need this app (see the instructions in the help page in the app).
 Thank you for using **Budle**! We are dedicated to ensuring you have a smooth experience. If you are facing any issues, have questions, or want to suggest a feature, please reach out to us.
 
 ---
